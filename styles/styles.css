@@ -6,3 +6,22 @@
  * 
  *
  */
+ .partner-banner.aside.small.center {
+    max-width: 800px;
+    margin: 10px;
+    margin: auto;
+    border-radius: 16px;
+    box-shadow: 0px 1px 4px 1px #EAEAEA;
+    min-height: 300px;
+ }
+
+ .partner-banner.aside.small.center > div.foreground.container.no-image {
+    display: block;
+    width: 100%;
+    margin: 0;
+    min-height: 300px;
+ }
+
+ .partner-banner.aside.small.center > div.foreground.container.no-image > div {
+    max-width: 100%;
+ }
